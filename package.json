@@ -1,0 +1,30 @@
+{
+  "name": "job-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyaryRaoof/job-network-api.git"
+  },
+  "author": "Dyary Raoof & Dico Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyaryRaoof/job-network-api/issues"
+  },
+  "homepage": "https://github.com/DyaryRaoof/job-network-api#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "compression": "^1.7.4",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.12",
+    "winston": "^3.3.3"
+  }
+}
